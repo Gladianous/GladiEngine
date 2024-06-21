@@ -136,6 +136,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\glad.c" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="stb_imgLoad.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader_s.h" />
@@ -143,6 +144,10 @@
   <ItemGroup>
     <None Include="fs3.fs" />
     <None Include="vs3.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="awesomeface.png" />
+    <Image Include="container.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

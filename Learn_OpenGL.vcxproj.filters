@@ -21,6 +21,9 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stb_imgLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader_s.h">
@@ -34,5 +37,13 @@
     <None Include="fs3.fs">
       <Filter>Source Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="awesomeface.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="container.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
