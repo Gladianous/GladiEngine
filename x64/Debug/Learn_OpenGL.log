@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\Users\Gladianous\source\repos\Learn_OpenGL\Learn_OpenGL\main.cpp(20,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gladianous\source\repos\Learn_OpenGL\Learn_OpenGL\main.cpp(33,14): warning C4305: 'initializing': truncation from 'double' to 'float'
   Learn_OpenGL.vcxproj -> C:\Users\Gladianous\source\repos\Learn_OpenGL\x64\Debug\Learn_OpenGL.exe
